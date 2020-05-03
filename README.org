@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=i/o][I/O]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-82/][SRFI 82]]: Stream Ports, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
